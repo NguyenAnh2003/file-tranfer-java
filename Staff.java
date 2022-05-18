@@ -1,4 +1,3 @@
-package XML.Send_XML;
 
 public class Staff {
   private String id, name, address, salary, subject, gender, birthday;

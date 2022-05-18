@@ -1,11 +1,9 @@
-package XML.Send_XML;
 
 import java.io.*;
 import org.w3c.dom.*;
 import javax.xml.parsers.*;
 import org.xml.sax.*;
 
-import GUI.guiBasic.frame;
 
 import java.util.*;
 import javax.swing.*;

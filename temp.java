@@ -1,4 +1,3 @@
-package XML.Send_XML;
 
 import java.io.*;
 import java.sql.*;

@@ -1,4 +1,3 @@
-package XML.Send_XML;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

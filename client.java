@@ -1,4 +1,3 @@
-package XML.Send_XML;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
